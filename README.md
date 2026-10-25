@@ -1,3 +1,10 @@
+<h3>GitHub activity</h3>
+
+<a href="https://github.com/GhostOfAstana#js-contribution-activity-description">
+  <img src="https://ghchart.rshah.org/GhostOfAstana" alt="GitHub contribution calendar for GhostOfAstana" width="100%">
+</a>
+<p align="right"><sub><a href="https://github.com/GhostOfAstana#js-contribution-activity-description">Explore contribution history →</a></sub></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
