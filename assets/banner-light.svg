@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="352" viewBox="0 0 1200 352" role="img" aria-labelledby="title desc">
+  <title id="title">Yernat Soltanbekov — Backend Developer</title>
+  <desc id="desc">Tomorrow School. Astana, Kazakhstan. Engineering, civil defence, teaching and software.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#D6E0EC" stroke-width="0.7" opacity="0.55"/>
+    </pattern>
+    <clipPath id="corner"><rect x="0" y="0" width="1200" height="352" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#corner)">
+    <rect width="1200" height="352" fill="#F6F8FC"/>
+    <rect x="856" y="0" width="344" height="352" fill="#EDF2F8"/>
+    <rect x="856" y="0" width="344" height="352" fill="url(#grid)"/>
+    <path d="M856 0V352" stroke="#D6E0EC"/>
+    <path d="M56 38H116" stroke="#087F91" stroke-width="4" stroke-linecap="round"/>
+    <path d="M126 38H151" stroke="#9B6829" stroke-width="4" stroke-linecap="round"/>
+    <text x="56" y="104" fill="#14263D" font-family="DejaVu Sans, Arial, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.6">Yernat Soltanbekov</text>
+    <text x="58" y="160" fill="#087F91" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="600" letter-spacing="0.1">Backend Developer</text>
+    <text x="58" y="208" fill="#526780" font-family="DejaVu Sans, Arial, sans-serif" font-size="16.5" letter-spacing="1.6">TOMORROW SCHOOL  /  ASTANA, KAZAKHSTAN</text>
+    <path d="M56 263H803" stroke="#D6E0EC" stroke-width="1.4"/>
+    <text x="58" y="304" fill="#526780" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="600" letter-spacing="1.6">ENGINEERING  ·  CIVIL DEFENCE  ·  TEACHING  ·  SOFTWARE</text>
+    <path d="M895 73H1126V278H895Z" fill="#E4F1F4" fill-opacity="0.55" stroke="#D6E0EC" stroke-width="1.5"/>
+    <path d="M895 119H1126M895 232H1126" fill="none" stroke="#D6E0EC"/>
+    <circle cx="917" cy="96" r="4" fill="#087F91"/>
+    <circle cx="932" cy="96" r="4" fill="#9B6829"/>
+    <circle cx="947" cy="96" r="4" fill="#526780" opacity="0.55"/>
+    <text x="1010" y="192" text-anchor="middle" fill="#14263D" font-family="DejaVu Sans Mono, monospace" font-size="51" font-weight="700">Go</text>
+    <text x="1010" y="259" text-anchor="middle" fill="#087F91" font-family="DejaVu Sans Mono, monospace" font-size="14" letter-spacing="2">HTTP  ·  SQL  ·  GIT</text>
+    <path d="M878 56V39H904M1143 295V312H1117" fill="none" stroke="#9B6829" stroke-width="2.5"/>
+    <path d="M1126 211H1158V155H1176" fill="none" stroke="#087F91" stroke-width="1.6" opacity="0.8"/>
+    <circle cx="1176" cy="155" r="3.4" fill="#087F91"/>
+  </g>
+</svg>
