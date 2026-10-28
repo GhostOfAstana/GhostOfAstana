@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/itf-banner.png" width="100%" alt="International Taekwon-Do Federation">
+</p>
+
 <h3>GitHub activity</h3>
 
 <a href="https://github.com/GhostOfAstana#js-contribution-activity-description">
