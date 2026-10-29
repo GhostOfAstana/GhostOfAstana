@@ -27,7 +27,7 @@
 
 **Building a career in backend development, with Go as my main language of practice.**
 
-**Former Military Officer, Senior Lieutenant**. I bring an engineering education, military service experience and a teaching background to IT. I am studying software development at **Tomorrow School** on the **01-Edu** platform and developing my technical understanding through web applications and networking projects.
+I bring an engineering education, military service experience and a teaching background to IT. I am studying software development at **Tomorrow School** on the **01-Edu** platform and developing my technical understanding through web applications and networking projects.
 
 My goal is to contribute to **Astana Hub's digital services** through backend development, automation and integrations. I bring a disciplined approach to precise requirements, clear documentation and collaboration while developing the technical skills to implement reliable software.
 
