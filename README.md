@@ -25,11 +25,11 @@
 
 ## About me
 
-**Building a career in backend development, with Go as my main language of practice.**
+**Seeking Application Support / Technical Operations / API Support in Astana, with a path toward DevOps and system administration.**
 
 I bring an engineering education, military service experience and a teaching background to IT. I am studying software development at **Tomorrow School** on the **01-Edu** platform and developing my technical understanding through web applications and networking projects.
 
-My goal is to contribute to **Astana Hub's digital services** through backend development, automation and integrations. I bring a disciplined approach to precise requirements, clear documentation and collaboration while developing the technical skills to implement reliable software.
+My goal is an in-house role at **Astana Hub itself in Astana**, supporting its digital services. I practise Go, Git, HTTP and SQL/SQLite through educational projects and am developing Linux, Docker and CI/CD fundamentals. My previous experience supports clear documentation, coordination and explaining technical material; it is not commercial IT or production operations experience.
 
 ## Selected projects
 
@@ -97,13 +97,13 @@ HTML/CSS, JavaScript, Django REST Framework, React/Vite, SQLite and HTTP integra
 
 | Experience | What I bring to IT |
 |---|---|
-| <br>Military service in the Civil Defence Administration of the Astana Department for Emergency Situations, 2017–2020 | Planning, official documentation, interagency coordination and work within a unit. A foundation for precise requirements, clear documentation, agreed responsibilities and reliable handovers. |
+| <br>Former military officer, Senior Lieutenant. Military service in the Civil Defence Administration of the Astana Department for Emergency Situations, 2017–2020 | Planning, official documentation, interagency coordination and work within a unit. A foundation for precise requirements, clear documentation, agreed responsibilities and reliable handovers. |
 | **Engineering education**<br>Geodesy and Cartography, Karaganda State Technical University, 2016 | Attention to inputs, assumptions and accuracy. I apply that habit when breaking down a problem and checking a result. |
 | **Teaching and public communication**<br>Training in Kazakh, civil protection communication and ITF instruction | Explaining unfamiliar material, giving feedback and adapting an explanation to the audience. Relevant to team communication, user guidance and documentation. |
 
 ## Learning and milestones
 
-- **Tomorrow School / 01-Edu** — software development programme, in progress.
+- **Tomorrow School / 01-Edu** — main software development programme, 2026–present; Piscine completed.
 - **Udacity** — Programming Fundamentals and Data Analysis Fundamentals, completed in 2026.
 - **HackAlem AI** — participant, Astana, October 2026.
 
@@ -111,23 +111,23 @@ HTML/CSS, JavaScript, Django REST Framework, React/Vite, SQLite and HTTP integra
 
 I have practised **ITF Taekwon-Do since 2008**, hold **I Dan** and have experience teaching children and adults. Consistent practice, feedback and responsibility for others are part of how I approach learning and teamwork.
 
-**Languages:** Kazakh and Russian; English for professional communication and continued study.
+**Languages:** Kazakh and Russian; English: ongoing study and speaking practice.
 
 <details>
 <summary><b>Қазақша</b></summary>
 
-Мен Ернат Солтанбековпын. Кәсіби бағытым — Backend Developer. **Бұрынғы әскери қызметші, офицер, аға лейтенант**. Инженерлік білімім, әскери қызмет және оқыту тәжірибем бар. 2017–2020 жылдары Астана қаласы ТЖД Азаматтық қорғаныс басқармасында офицер ретінде әскери қызмет өткердім.
+Мен Ернат Солтанбековпын. Мақсатым — Astana Hub ұйымының өз штатына Application Support / Technical Operations / API Support бағыты бойынша жұмысқа орналасу, кейін DevOps және жүйелік әкімшілендіру саласында даму. **Бұрынғы әскери қызметші, офицер, аға лейтенант**. Инженерлік білімім, әскери қызмет және оқыту тәжірибем бар. 2017–2020 жылдары Астана қаласы ТЖД Азаматтық қорғаныс басқармасында офицер ретінде әскери қызмет өткердім.
 
-Қазір Tomorrow School-да оқып, Go, HTTP және SQL бойынша тәжірибе жинақтап жүрмін. Astana Hub-тың цифрлық сервистеріне бэкенд әзірлеу, автоматтандыру және жүйелерді біріктіру арқылы үлес қосқым келеді. Бұрынғы тәжірибем талаптарды нақтылауға, шешімдерді құжаттауға, нәтижені тексеруге және командамен бірлесіп жұмыс істеуге көмектеседі.
+Қазір Tomorrow School-да оқып, Go, HTTP және SQL бойынша тәжірибе жинақтап жүрмін. Astana Hub-тың ішкі цифрлық сервистерін техникалық қолдауға үлес қосқым келеді. Linux, Docker және CI/CD негіздерін меңгеріп жүрмін. Жобалар Codex көмегімен жасалған оқу жұмыстары. Бұрынғы тәжірибем талаптарды нақтылауға, шешімдерді құжаттауға, нәтижені тексеруге және командамен бірлесіп жұмыс істеуге көмектеседі.
 
 </details>
 
 <details>
 <summary><b>По-русски</b></summary>
 
-Я Ернат Солтанбеков. Моё профессиональное направление — Backend Developer. **Бывший военнослужащий, офицер, старший лейтенант**. Моя основа — инженерное образование, военная служба и опыт преподавания. В 2017–2020 годах проходил военную службу в должности офицера Управления гражданской обороны ДЧС Астаны.
+Я Ернат Солтанбеков. Ищу штатную роль в самом Astana Hub в Астане: Application Support / Technical Operations / API Support, с ростом в DevOps и системное администрирование. **Бывший военнослужащий, офицер, старший лейтенант**. Моя основа — инженерное образование, военная служба и опыт преподавания. В 2017–2020 годах проходил военную службу в должности офицера Управления гражданской обороны ДЧС Астаны.
 
-Сейчас учусь в Tomorrow School, практикую Go, HTTP и SQL. Хочу работать над backend-сервисами, автоматизацией и интеграциями в Astana Hub. Опыт службы, инженерная подготовка и преподавание помогают мне уточнять требования, последовательно работать над реализацией, документировать решения, проверять результат и взаимодействовать с командой.
+Сейчас учусь в Tomorrow School, практикую Go, HTTP и SQL. Хочу заниматься технической поддержкой внутренних приложений и API Astana Hub. Основы Linux, Docker и CI/CD развиваю. Опыт службы, инженерная подготовка и преподавание помогают мне уточнять требования, последовательно работать над реализацией, документировать решения, проверять результат и взаимодействовать с командой.
 
 В репозиториях представлены учебные проекты с использованием Codex. Taekwon-Do ITF практикую с 2008 года, имею I дан и опыт преподавания.
 
