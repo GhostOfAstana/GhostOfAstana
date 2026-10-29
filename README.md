@@ -12,7 +12,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="Yernat Soltanbekov — Backend Developer. Tomorrow School. Astana, Kazakhstan.">
+  <img src="assets/banner-light.svg" width="100%" alt="Yernat Soltanbekov. Application Support and Technical Operations pathway. Tomorrow School. Astana, Kazakhstan.">
 </picture>
 
 <p align="center">
