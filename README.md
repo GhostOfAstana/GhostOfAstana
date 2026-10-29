@@ -97,7 +97,7 @@ HTML/CSS, JavaScript, Django REST Framework, React/Vite, SQLite and HTTP integra
 
 | Experience | What I bring to IT |
 |---|---|
-| **Former Military Officer, Senior Lieutenant**<br>Military service in the Civil Defence Administration of the Astana Department for Emergency Situations, 2017–2020 | Planning, official documentation, interagency coordination and work within a unit. A foundation for precise requirements, clear documentation, agreed responsibilities and reliable handovers. |
+| <br>Military service in the Civil Defence Administration of the Astana Department for Emergency Situations, 2017–2020 | Planning, official documentation, interagency coordination and work within a unit. A foundation for precise requirements, clear documentation, agreed responsibilities and reliable handovers. |
 | **Engineering education**<br>Geodesy and Cartography, Karaganda State Technical University, 2016 | Attention to inputs, assumptions and accuracy. I apply that habit when breaking down a problem and checking a result. |
 | **Teaching and public communication**<br>Training in Kazakh, civil protection communication and ITF instruction | Explaining unfamiliar material, giving feedback and adapting an explanation to the audience. Relevant to team communication, user guidance and documentation. |
 
