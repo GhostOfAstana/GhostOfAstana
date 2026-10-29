@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="352" viewBox="0 0 1200 352" role="img" aria-labelledby="title desc">
   <title id="title">Yernat Soltanbekov — Backend Developer</title>
-  <desc id="desc">Tomorrow School. Astana, Kazakhstan. Former Military Officer, Senior Lieutenant. Engineering, teaching and software.</desc>
+  <desc id="desc">Tomorrow School. Astana, Kazakhstan. Engineering, teaching and software.</desc>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M32 0H0V32" fill="none" stroke="#263A52" stroke-width="0.7" opacity="0.55"/>
@@ -18,7 +18,6 @@
     <text x="58" y="160" fill="#70D8E4" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="600" letter-spacing="0.1">Backend Developer</text>
     <text x="58" y="208" fill="#A6B6CB" font-family="DejaVu Sans, Arial, sans-serif" font-size="16.5" letter-spacing="1.6">TOMORROW SCHOOL  /  ASTANA, KAZAKHSTAN</text>
     <path d="M56 263H803" stroke="#263A52" stroke-width="1.4"/>
-    <text x="58" y="292" fill="#A6B6CB" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="0.2">Former Military Officer, Senior Lieutenant</text>
     <text x="58" y="326" fill="#A6B6CB" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="600" letter-spacing="1.6">ENGINEERING  ·  TEACHING  ·  SOFTWARE</text>
     <!-- Official Tomorrow School logo: https://astanahub.com/ru/techorda/school/530/ -->
     <g aria-label="Tomorrow School logo">
