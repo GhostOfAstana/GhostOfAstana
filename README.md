@@ -27,9 +27,7 @@
 
 **Technical Support Engineer**
 
-I bring an engineering education, military service experience and a teaching background to IT. I am studying software development at **Tomorrow School** on the **01-Edu** platform and developing my technical understanding through web applications and networking projects.
-
-My goal is an in-house role at **Astana Hub itself in Astana**, supporting its digital services. I practise Go, Git, HTTP and SQL/SQLite through educational projects and am developing Linux, Docker and CI/CD fundamentals. My previous experience supports clear documentation, coordination and explaining technical material; it is not commercial IT or production operations experience.
+I work on Go web applications and networking tools, including HTTP request handling, SQL data flows and concurrent TCP connections. I combine an engineering approach to troubleshooting with the coordination and communication skills developed through military service as an officer and teaching. I document decisions, check results and explain technical details clearly.
 
 ## Selected projects
 
@@ -45,7 +43,7 @@ My goal is an in-house role at **Astana Hub itself in Astana**, supporting its d
     <td width="50%" valign="top">
       <h3><a href="https://github.com/GhostOfAstana/symbol-web">symbol-web · ASCII Studio</a></h3>
       <p><b>Text-to-ASCII web studio with an optional LLM adapter.</b></p>
-      <p>HTTP endpoints, input validation and timeouts, plus a deterministic offline mode. I defined the requirements and interface direction; implementation was assisted by Codex.</p>
+      <p>HTTP endpoints, input validation and timeouts, plus a deterministic offline mode.</p>
       <p><code>Go</code> <code>HTTP</code> <code>JavaScript</code> <code>LLM API</code></p>
       <a href="https://github.com/GhostOfAstana/symbol-web">Explore the project →</a>
     </td>
@@ -68,11 +66,11 @@ My goal is an in-house role at **Astana Hub itself in Astana**, supporting its d
   </tr>
 </table>
 
-These are personal educational projects developed with Codex assistance. Each repository documents its functionality, setup and development context.
+Each project has a repository with setup instructions and technical details.
 
 ## Technical practice
 
-**My main learning focus**
+**Core technical practice**
 
 <p>
   <img src="assets/badge-go.svg" alt="Go" height="30">
@@ -81,7 +79,7 @@ These are personal educational projects developed with Codex assistance. Each re
   <img src="assets/badge-git.svg" alt="Git" height="30">
 </p>
 
-Go fundamentals, HTTP handlers, SQL queries, validation, testing and debugging. My current practice follows features from the incoming request through application logic to the database and response.
+Go, HTTP handlers, SQL queries, validation, testing and debugging. I trace requests through application logic and the database to the response to understand behavior and find errors.
 
 **Also used in my project portfolio**
 
@@ -116,19 +114,23 @@ I have practised **ITF Taekwon-Do since 2008**, hold **I Dan** and have experien
 <details>
 <summary><b>Қазақша</b></summary>
 
-Мен Ернат Солтанбековпын. Мақсатым — Astana Hub ұйымының өз штатында Technical Support Engineer бағыты бойынша жұмыс істеу. **Бұрынғы әскери қызметші, офицер, аға лейтенант**. Инженерлік білімім, әскери қызмет және оқыту тәжірибем бар. 2017–2020 жылдары Астана қаласы ТЖД Азаматтық қорғаныс басқармасында офицер ретінде әскери қызмет өткердім.
+Мен Ернат Солтанбековпын. **Technical Support Engineer**.
 
-Қазір Tomorrow School-да оқып, Go, HTTP және SQL бойынша тәжірибе жинақтап жүрмін. Astana Hub-тың ішкі цифрлық сервистерін техникалық қолдауға үлес қосқым келеді. Linux, Docker және CI/CD негіздерін меңгеріп жүрмін. Жобалар Codex көмегімен жасалған оқу жұмыстары. Бұрынғы тәжірибем талаптарды нақтылауға, шешімдерді құжаттауға, нәтижені тексеруге және командамен бірлесіп жұмыс істеуге көмектеседі.
+Go тіліндегі веб-қосымшалармен және желілік құралдармен жұмыс істеймін: HTTP сұрауларын өңдеу, SQL деректер ағындары және қатар орындалатын TCP қосылымдары. Техникалық мәселелерді инженерлік тәсілмен талдаймын; офицерлік қызмет пен оқыту тәжірибесі жұмысты үйлестіруге және күрделі нәрсені түсінікті жеткізуге көмектеседі. Мәселені бөліктерге ажыратып, шешімдерді құжаттаймын және нәтижені тексеремін.
+
+2017–2020 жылдары Астана қаласы ТЖД Азаматтық қорғаныс басқармасында офицер ретінде әскери қызмет өткердім, әскери атағым — аға лейтенант.
 
 </details>
 
 <details>
 <summary><b>По-русски</b></summary>
 
-Я Ернат Солтанбеков. Целевая роль — Инженер технической поддержки в штате Astana Hub в Астане. **Бывший военнослужащий, офицер, старший лейтенант**. Моя основа — инженерное образование, военная служба и опыт преподавания. В 2017–2020 годах проходил военную службу в должности офицера Управления гражданской обороны ДЧС Астаны.
+Я Ернат Солтанбеков. **Инженер технической поддержки**.
 
-Сейчас учусь в Tomorrow School, практикую Go, HTTP и SQL. Хочу заниматься технической поддержкой внутренних приложений и API Astana Hub. Основы Linux, Docker и CI/CD развиваю. Опыт службы, инженерная подготовка и преподавание помогают мне уточнять требования, последовательно работать над реализацией, документировать решения, проверять результат и взаимодействовать с командой.
+Работаю с веб-приложениями и сетевыми инструментами на Go: обработкой HTTP-запросов, потоками данных в SQL и конкурентными TCP-соединениями. Использую инженерный подход к диагностике, а опыт офицерской службы и преподавания — для координации работы и понятного объяснения сложных вещей. Разбираю технические задачи, документирую решения и проверяю результат.
 
-В репозиториях представлены учебные проекты с использованием Codex. Taekwon-Do ITF практикую с 2008 года, имею I дан и опыт преподавания.
+В 2017–2020 годах проходил военную службу в должности офицера Управления гражданской обороны ДЧС Астаны, воинское звание — старший лейтенант.
+
+Taekwon-Do ITF практикую с 2008 года, имею I дан и опыт преподавания.
 
 </details>
