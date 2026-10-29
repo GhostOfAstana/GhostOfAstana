@@ -10,9 +10,9 @@
 <p align="right"><sub><a href="https://github.com/GhostOfAstana#js-contribution-activity-description">Explore contribution history →</a></sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=20261029itoperations">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=20261029itoperations">
-  <img src="assets/banner-light.svg?v=20261029itoperations" width="100%" alt="Yernat Soltanbekov. IT Operations. Astana, Kazakhstan.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=20261029technicalsupport">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=20261029technicalsupport">
+  <img src="assets/banner-light.svg?v=20261029technicalsupport" width="100%" alt="Yernat Soltanbekov. Technical Support Engineer. Astana, Kazakhstan.">
 </picture>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## About me
 
-**IT Operations**
+**Technical Support Engineer**
 
 I bring an engineering education, military service experience and a teaching background to IT. I am studying software development at **Tomorrow School** on the **01-Edu** platform and developing my technical understanding through web applications and networking projects.
 
@@ -116,7 +116,7 @@ I have practised **ITF Taekwon-Do since 2008**, hold **I Dan** and have experien
 <details>
 <summary><b>Қазақша</b></summary>
 
-Мен Ернат Солтанбековпын. Мақсатым — Astana Hub ұйымының өз штатында IT Operations бағыты бойынша жұмыс істеу. **Бұрынғы әскери қызметші, офицер, аға лейтенант**. Инженерлік білімім, әскери қызмет және оқыту тәжірибем бар. 2017–2020 жылдары Астана қаласы ТЖД Азаматтық қорғаныс басқармасында офицер ретінде әскери қызмет өткердім.
+Мен Ернат Солтанбековпын. Мақсатым — Astana Hub ұйымының өз штатында Technical Support Engineer бағыты бойынша жұмыс істеу. **Бұрынғы әскери қызметші, офицер, аға лейтенант**. Инженерлік білімім, әскери қызмет және оқыту тәжірибем бар. 2017–2020 жылдары Астана қаласы ТЖД Азаматтық қорғаныс басқармасында офицер ретінде әскери қызмет өткердім.
 
 Қазір Tomorrow School-да оқып, Go, HTTP және SQL бойынша тәжірибе жинақтап жүрмін. Astana Hub-тың ішкі цифрлық сервистерін техникалық қолдауға үлес қосқым келеді. Linux, Docker және CI/CD негіздерін меңгеріп жүрмін. Жобалар Codex көмегімен жасалған оқу жұмыстары. Бұрынғы тәжірибем талаптарды нақтылауға, шешімдерді құжаттауға, нәтижені тексеруге және командамен бірлесіп жұмыс істеуге көмектеседі.
 
@@ -125,7 +125,7 @@ I have practised **ITF Taekwon-Do since 2008**, hold **I Dan** and have experien
 <details>
 <summary><b>По-русски</b></summary>
 
-Я Ернат Солтанбеков. Целевая роль — IT-эксплуатация в штате Astana Hub в Астане. **Бывший военнослужащий, офицер, старший лейтенант**. Моя основа — инженерное образование, военная служба и опыт преподавания. В 2017–2020 годах проходил военную службу в должности офицера Управления гражданской обороны ДЧС Астаны.
+Я Ернат Солтанбеков. Целевая роль — Инженер технической поддержки в штате Astana Hub в Астане. **Бывший военнослужащий, офицер, старший лейтенант**. Моя основа — инженерное образование, военная служба и опыт преподавания. В 2017–2020 годах проходил военную службу в должности офицера Управления гражданской обороны ДЧС Астаны.
 
 Сейчас учусь в Tomorrow School, практикую Go, HTTP и SQL. Хочу заниматься технической поддержкой внутренних приложений и API Astana Hub. Основы Linux, Docker и CI/CD развиваю. Опыт службы, инженерная подготовка и преподавание помогают мне уточнять требования, последовательно работать над реализацией, документировать решения, проверять результат и взаимодействовать с командой.
 
