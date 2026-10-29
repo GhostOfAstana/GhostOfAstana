@@ -10,9 +10,9 @@
 <p align="right"><sub><a href="https://github.com/GhostOfAstana#js-contribution-activity-description">Explore contribution history →</a></sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="Yernat Soltanbekov. Application Support and Technical Operations pathway. Tomorrow School. Astana, Kazakhstan.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=20261029support">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=20261029support">
+  <img src="assets/banner-light.svg?v=20261029support" width="100%" alt="Yernat Soltanbekov. Application Support and Technical Operations pathway. Tomorrow School. Astana, Kazakhstan.">
 </picture>
 
 <p align="center">
