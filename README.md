@@ -27,7 +27,7 @@
 
 **Building a career in backend development, with Go as my main language of practice.**
 
-I bring an engineering education, experience as a civil defence officer and a teaching background to IT. I am studying software development at **Tomorrow School** on the **01-Edu** platform and developing my technical understanding through web applications and networking projects.
+**Former Military Officer, Senior Lieutenant**. I bring an engineering education, military service experience and a teaching background to IT. I am studying software development at **Tomorrow School** on the **01-Edu** platform and developing my technical understanding through web applications and networking projects.
 
 My goal is to contribute to **Astana Hub's digital services** through backend development, automation and integrations. I bring a disciplined approach to precise requirements, clear documentation and collaboration while developing the technical skills to implement reliable software.
 
@@ -97,7 +97,7 @@ HTML/CSS, JavaScript, Django REST Framework, React/Vite, SQLite and HTTP integra
 
 | Experience | What I bring to IT |
 |---|---|
-| **Civil defence officer · Senior Lieutenant**<br>Astana Department for Emergency Situations, 2017–2020 | Planning, official documentation, interagency coordination and work within a unit. A foundation for precise requirements, clear documentation, agreed responsibilities and reliable handovers. |
+| **Former Military Officer, Senior Lieutenant**<br>Military service in the Civil Defence Administration of the Astana Department for Emergency Situations, 2017–2020 | Planning, official documentation, interagency coordination and work within a unit. A foundation for precise requirements, clear documentation, agreed responsibilities and reliable handovers. |
 | **Engineering education**<br>Geodesy and Cartography, Karaganda State Technical University, 2016 | Attention to inputs, assumptions and accuracy. I apply that habit when breaking down a problem and checking a result. |
 | **Teaching and public communication**<br>Training in Kazakh, civil protection communication and ITF instruction | Explaining unfamiliar material, giving feedback and adapting an explanation to the audience. Relevant to team communication, user guidance and documentation. |
 
@@ -116,7 +116,7 @@ I have practised **ITF Taekwon-Do since 2008**, hold **I Dan** and have experien
 <details>
 <summary><b>Қазақша</b></summary>
 
-Мен Ернат Солтанбековпын. Кәсіби бағытым — Backend Developer. Инженерлік білімім, азаматтық қорғаныс саласындағы офицерлік қызмет тәжірибем және оқыту тәжірибем бар.
+Мен Ернат Солтанбековпын. Кәсіби бағытым — Backend Developer. **Бұрынғы әскери қызметші, офицер, аға лейтенант**. Инженерлік білімім, әскери қызмет және оқыту тәжірибем бар. 2017–2020 жылдары Астана қаласы ТЖД Азаматтық қорғаныс басқармасында офицер ретінде әскери қызмет өткердім.
 
 Қазір Tomorrow School-да оқып, Go, HTTP және SQL бойынша тәжірибе жинақтап жүрмін. Astana Hub-тың цифрлық сервистеріне бэкенд әзірлеу, автоматтандыру және жүйелерді біріктіру арқылы үлес қосқым келеді. Бұрынғы тәжірибем талаптарды нақтылауға, шешімдерді құжаттауға, нәтижені тексеруге және командамен бірлесіп жұмыс істеуге көмектеседі.
 
@@ -125,7 +125,7 @@ I have practised **ITF Taekwon-Do since 2008**, hold **I Dan** and have experien
 <details>
 <summary><b>По-русски</b></summary>
 
-Я Ернат Солтанбеков. Моё профессиональное направление — Backend Developer. Моя основа — инженерное образование, офицерская служба в гражданской обороне и опыт преподавания.
+Я Ернат Солтанбеков. Моё профессиональное направление — Backend Developer. **Бывший военнослужащий, офицер, старший лейтенант**. Моя основа — инженерное образование, военная служба и опыт преподавания. В 2017–2020 годах проходил военную службу в должности офицера Управления гражданской обороны ДЧС Астаны.
 
 Сейчас учусь в Tomorrow School, практикую Go, HTTP и SQL. Хочу работать над backend-сервисами, автоматизацией и интеграциями в Astana Hub. Опыт службы, инженерная подготовка и преподавание помогают мне уточнять требования, последовательно работать над реализацией, документировать решения, проверять результат и взаимодействовать с командой.
 
