@@ -98,7 +98,7 @@ HTML/CSS, JavaScript, Django REST Framework, React/Vite, SQLite and HTTP integra
 
 | Experience | What I bring to IT |
 |---|---|
-| **Military officer · 2017–2020**<br>Civil Defence Administration, Astana Department for Emergency Situations | Interagency coordination, official and mobilisation documentation, command-and-staff exercises, state oversight, specialist training and media appearances in Kazakh. |
+| **Military officer · 2017–2020**<br>Department for Emergency Situations, Astana | Interagency coordination, official and mobilisation documentation, command-and-staff exercises, state oversight, specialist training and media appearances in Kazakh. |
 | **Transport logistics · 2020–2025** | Independent passenger transport and delivery services: route planning, order fulfilment and customer service. |
 | **Engineering education**<br>Geodesy and Cartography, Karaganda State Technical University, 2016 | Attention to inputs, assumptions and accuracy. I apply that habit when breaking down a problem and checking a result. |
 | **Teaching and public communication**<br>Training in Kazakh, civil protection communication and ITF instruction | Explaining unfamiliar material, giving feedback and adapting an explanation to the audience. Relevant to team communication, user guidance and documentation. |
@@ -128,7 +128,7 @@ I have practised **ITF Taekwon-Do since 2008**, hold **I Dan** and have experien
 
 Tomorrow School / 01-Edu бағдарламасында Go, JavaScript және Python тілдеріндегі full-stack әзірлеу және AI бағыты бойынша білім алудамын. Инженерлік білімім, ведомствоаралық үйлестіру, белгіленген талаптарға сай құжаттама дайындау және мамандарды оқыту тәжірибем бар. Техникалық бағытым — серверлік логика, HTTP API және деректермен жұмыс. Astana Hub қорының штатындағы бастапқы техникалық қызметті немесе тағылымдаманы қарастырамын.
 
-**Әскери қызметші, офицер · 2017–2020** — Астана қаласы ТЖД Азаматтық қорғаныс басқармасы.
+**Әскери қызметші, офицер · 2017–2020** — Астана қаласының ТЖД.
 
 **Көлік логистикасы · 2020–2025** — жолаушылар тасымалы мен жеткізу саласындағы дербес қызмет.
 
@@ -145,7 +145,7 @@ Taekwon-Do ITF тәжірибесі — 2008 жылдан; I дан; балал�
 
 Подготовка по full-stack-разработке и AI в Tomorrow School / 01-Edu: Go, JavaScript, Python. Инженерное образование, опыт межведомственной координации, подготовки регламентированной документации и обучения специалистов. Технический фокус — серверная логика, HTTP API и работа с данными. Рассматриваю начальную техническую позицию или стажировку в штате АКФ Astana Hub.
 
-**Военнослужащий, офицер · 2017–2020** — Управление гражданской обороны ДЧС г. Астаны.
+**Военнослужащий, офицер · 2017–2020** — ДЧС г. Астаны.
 
 **Транспортная логистика · 2020–2025** — самостоятельная деятельность в пассажирских перевозках и доставке: планирование маршрутов, выполнение заказов и клиентский сервис.
 
