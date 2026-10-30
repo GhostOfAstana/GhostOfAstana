@@ -10,9 +10,9 @@
 <p align="right"><sub><a href="https://github.com/GhostOfAstana#js-contribution-activity-description">Explore contribution history →</a></sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=20261030sysadmin">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=20261030sysadmin">
-  <img src="assets/banner-light.svg?v=20261030sysadmin" width="100%" alt="Yernat Soltanbekov. SysAdmin. Astana, Kazakhstan.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=20261030backend">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=20261030backend">
+  <img src="assets/banner-light.svg?v=20261030backend" width="100%" alt="Yernat Soltanbekov. Backend Developer. Astana, Kazakhstan.">
 </picture>
 
 <p align="center">
@@ -25,9 +25,9 @@
 
 ## About me
 
-**SysAdmin**
+**Backend Developer**
 
-My target role is System Administrator. I am studying at Tomorrow School / 01-Edu and work on learning projects: Go web applications and networking tools, including HTTP request handling, SQL data flows and concurrent TCP connections. I combine an engineering approach to troubleshooting with the coordination and communication skills developed through military service as an officer and teaching. I document decisions, check results and explain technical details clearly.
+Full-stack development and AI training at Tomorrow School / 01-Edu: Go, JavaScript and Python. Engineering education and experience in interagency coordination, formal documentation and specialist training. Technical focus: server-side logic, HTTP APIs and data. Interested in an entry-level technical role or internship within the Astana Hub Fund team.
 
 ## Selected projects
 
@@ -79,7 +79,10 @@ These are learning projects developed with Codex assistance. Each repository inc
   <img src="assets/badge-git.svg" alt="Git" height="30">
 </p>
 
-Go, HTTP handlers, SQL queries, validation, testing and debugging. I trace requests through application logic and the database to the response to understand behavior and find errors.
+Go · HTTP · SQL · SQLite · Git · Postman. Docker and Kubernetes fundamentals. Experience working in macOS and Ubuntu environments.
+
+- [coddy](https://github.com/GhostOfAstana/coddy) — Go practice: data structures, maps, pointers, string processing and algorithm exercises.
+- [ernat-it-journey](https://github.com/GhostOfAstana/ernat-it-journey) — SQL queries, HTTP/API and infrastructure case studies.
 
 **Also used in my project portfolio**
 
@@ -95,14 +98,18 @@ HTML/CSS, JavaScript, Django REST Framework, React/Vite, SQLite and HTTP integra
 
 | Experience | What I bring to IT |
 |---|---|
-| <br>Former military officer, Senior Lieutenant. Military service in the Civil Defence Administration of the Astana Department for Emergency Situations, 2017–2020 | Planning, official documentation, interagency coordination and work within a unit. A foundation for precise requirements, clear documentation, agreed responsibilities and reliable handovers. |
-| **Self-employment, 2020–2025**<br>Passenger transport and delivery | Planning routes and deadlines, communicating with customers and resolving order issues. |
+| **Military officer · 2017–2020**<br>Civil Defence Administration, Astana Department for Emergency Situations | Interagency coordination, official and mobilisation documentation, command-and-staff exercises, state oversight, specialist training and media appearances in Kazakh. |
+| **Transport logistics · 2020–2025** | Independent passenger transport and delivery services: route planning, order fulfilment and customer service. |
 | **Engineering education**<br>Geodesy and Cartography, Karaganda State Technical University, 2016 | Attention to inputs, assumptions and accuracy. I apply that habit when breaking down a problem and checking a result. |
 | **Teaching and public communication**<br>Training in Kazakh, civil protection communication and ITF instruction | Explaining unfamiliar material, giving feedback and adapting an explanation to the audience. Relevant to team communication, user guidance and documentation. |
 
+**Technical assistance to Tomorrow School**
+
+Contributed to a computer fleet upgrade: preparing workstations, setting up equipment and organising cable connections.
+
 ## Learning and milestones
 
-- **Tomorrow School / 01-Edu** — main software development programme, 2026–present; Piscine completed.
+- **Tomorrow School / 01-Edu** — full-stack development and AI specialist training programme: Go, JavaScript and Python, 2026–present; Piscine completed.
 - **Udacity** — Programming Fundamentals and Data Analysis Fundamentals, completed in 2026.
 - **HackAlem AI** — participant, Astana, October 2026.
 
@@ -112,28 +119,38 @@ DevOps is a direction for further growth.
 
 I have practised **ITF Taekwon-Do since 2008**, hold **I Dan** and have experience teaching children and adults. Consistent practice, feedback and responsibility for others are part of how I approach learning and teamwork.
 
-**Languages:** Kazakh and Russian; English: B2.
+**Languages:** Kazakh — native; Russian — C2; English — B2.
 
 <details>
 <summary><b>Қазақша</b></summary>
 
-Мен Ернат Солтанбековпын. Мақсатты қызметім — **Жүйелік әкімші**.
+Мен Ернат Солтанбековпын. Мақсатты қызметім — **Backend әзірлеуші**.
 
-Tomorrow School / 01-Edu бағдарламасында оқимын. Codex көмегімен оқу жобаларын әзірлеймін: discuss-hub, symbol-web, net-link, brain-check. Go тіліндегі веб-қосымшалармен және желілік құралдармен жұмыс істеймін: HTTP сұрауларын өңдеу, SQL деректер ағындары және қатар орындалатын TCP қосылымдары. Техникалық мәселелерді инженерлік тәсілмен талдаймын; офицерлік қызмет пен оқыту тәжірибесі жұмысты үйлестіруге және күрделі нәрсені түсінікті жеткізуге көмектеседі. Мәселені бөліктерге ажыратып, шешімдерді құжаттаймын және нәтижені тексеремін.
+Tomorrow School / 01-Edu бағдарламасында Go, JavaScript және Python тілдеріндегі full-stack әзірлеу және AI бағыты бойынша білім алудамын. Инженерлік білімім, ведомствоаралық үйлестіру, белгіленген талаптарға сай құжаттама дайындау және мамандарды оқыту тәжірибем бар. Техникалық бағытым — серверлік логика, HTTP API және деректермен жұмыс. Astana Hub қорының штатындағы бастапқы техникалық қызметті немесе тағылымдаманы қарастырамын.
 
-2017–2020 жылдары Астана қаласы ТЖД Азаматтық қорғаныс басқармасында офицер ретінде әскери қызмет өткердім, әскери атағым — аға лейтенант.
+**Әскери қызметші, офицер · 2017–2020** — Астана қаласы ТЖД Азаматтық қорғаныс басқармасы.
+
+**Көлік логистикасы · 2020–2025** — жолаушылар тасымалы мен жеткізу саласындағы дербес қызмет.
+
+**Tomorrow School бағдарламасына техникалық жәрдем** — компьютерлік паркті жаңартуға қатысу: жұмыс орындарын дайындау, жабдықтарды орнату және кабельдік қосылымдарды ретке келтіру.
+
+Taekwon-Do ITF тәжірибесі — 2008 жылдан; I дан; балалар мен ересектерді оқыту.
 
 </details>
 
 <details>
 <summary><b>По-русски</b></summary>
 
-Я Ернат Солтанбеков. Целевая роль — **Системный администратор**.
+Я Ернат Солтанбеков. Целевая роль — **Backend Developer**.
 
-Учусь в Tomorrow School / 01-Edu. Учебные проекты discuss-hub, symbol-web, net-link и brain-check разрабатываю с участием Codex. Работаю с веб-приложениями и сетевыми инструментами на Go: обработкой HTTP-запросов, потоками данных в SQL и конкурентными TCP-соединениями. Использую инженерный подход к диагностике, а опыт офицерской службы и преподавания — для координации работы и понятного объяснения сложных вещей. Разбираю технические задачи, документирую решения и проверяю результат.
+Подготовка по full-stack-разработке и AI в Tomorrow School / 01-Edu: Go, JavaScript, Python. Инженерное образование, опыт межведомственной координации, подготовки регламентированной документации и обучения специалистов. Технический фокус — серверная логика, HTTP API и работа с данными. Рассматриваю начальную техническую позицию или стажировку в штате АКФ Astana Hub.
 
-В 2017–2020 годах проходил военную службу в должности офицера Управления гражданской обороны ДЧС Астаны, воинское звание — старший лейтенант.
+**Военнослужащий, офицер · 2017–2020** — Управление гражданской обороны ДЧС г. Астаны.
 
-Taekwon-Do ITF практикую с 2008 года, имею I дан и опыт преподавания.
+**Транспортная логистика · 2020–2025** — самостоятельная деятельность в пассажирских перевозках и доставке: планирование маршрутов, выполнение заказов и клиентский сервис.
+
+**Техническое содействие Tomorrow School** — участие в обновлении компьютерного парка: подготовка рабочих мест, установка оборудования и организация кабельных соединений.
+
+Taekwon-Do ITF практикую с 2008 года; I дан. Опыт проведения занятий для детей и взрослых.
 
 </details>
