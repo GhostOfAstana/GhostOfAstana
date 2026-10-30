@@ -10,9 +10,9 @@
 <p align="right"><sub><a href="https://github.com/GhostOfAstana#js-contribution-activity-description">Explore contribution history →</a></sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=20261029technicalsupport">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=20261029technicalsupport">
-  <img src="assets/banner-light.svg?v=20261029technicalsupport" width="100%" alt="Yernat Soltanbekov. Technical Support Engineer. Astana, Kazakhstan.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=20261030sysadmin">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=20261030sysadmin">
+  <img src="assets/banner-light.svg?v=20261030sysadmin" width="100%" alt="Yernat Soltanbekov. SysAdmin. Astana, Kazakhstan.">
 </picture>
 
 <p align="center">
@@ -25,9 +25,9 @@
 
 ## About me
 
-**Technical Support Engineer**
+**SysAdmin**
 
-I work on Go web applications and networking tools, including HTTP request handling, SQL data flows and concurrent TCP connections. I combine an engineering approach to troubleshooting with the coordination and communication skills developed through military service as an officer and teaching. I document decisions, check results and explain technical details clearly.
+My target role is System Administrator. I am studying at Tomorrow School / 01-Edu and work on learning projects: Go web applications and networking tools, including HTTP request handling, SQL data flows and concurrent TCP connections. I combine an engineering approach to troubleshooting with the coordination and communication skills developed through military service as an officer and teaching. I document decisions, check results and explain technical details clearly.
 
 ## Selected projects
 
@@ -66,7 +66,7 @@ I work on Go web applications and networking tools, including HTTP request handl
   </tr>
 </table>
 
-Each project has a repository with setup instructions and technical details.
+These are learning projects developed with Codex assistance. Each repository includes source code, setup instructions and technical details.
 
 ## Technical practice
 
@@ -96,6 +96,7 @@ HTML/CSS, JavaScript, Django REST Framework, React/Vite, SQLite and HTTP integra
 | Experience | What I bring to IT |
 |---|---|
 | <br>Former military officer, Senior Lieutenant. Military service in the Civil Defence Administration of the Astana Department for Emergency Situations, 2017–2020 | Planning, official documentation, interagency coordination and work within a unit. A foundation for precise requirements, clear documentation, agreed responsibilities and reliable handovers. |
+| **Self-employment, 2020–2025**<br>Passenger transport and delivery | Planning routes and deadlines, communicating with customers and resolving order issues. |
 | **Engineering education**<br>Geodesy and Cartography, Karaganda State Technical University, 2016 | Attention to inputs, assumptions and accuracy. I apply that habit when breaking down a problem and checking a result. |
 | **Teaching and public communication**<br>Training in Kazakh, civil protection communication and ITF instruction | Explaining unfamiliar material, giving feedback and adapting an explanation to the audience. Relevant to team communication, user guidance and documentation. |
 
@@ -104,6 +105,8 @@ HTML/CSS, JavaScript, Django REST Framework, React/Vite, SQLite and HTTP integra
 - **Tomorrow School / 01-Edu** — main software development programme, 2026–present; Piscine completed.
 - **Udacity** — Programming Fundamentals and Data Analysis Fundamentals, completed in 2026.
 - **HackAlem AI** — participant, Astana, October 2026.
+
+DevOps is a direction for further growth.
 
 ## Beyond code
 
@@ -114,9 +117,9 @@ I have practised **ITF Taekwon-Do since 2008**, hold **I Dan** and have experien
 <details>
 <summary><b>Қазақша</b></summary>
 
-Мен Ернат Солтанбековпын. **Technical Support Engineer**.
+Мен Ернат Солтанбековпын. Мақсатты қызметім — **Жүйелік әкімші**.
 
-Go тіліндегі веб-қосымшалармен және желілік құралдармен жұмыс істеймін: HTTP сұрауларын өңдеу, SQL деректер ағындары және қатар орындалатын TCP қосылымдары. Техникалық мәселелерді инженерлік тәсілмен талдаймын; офицерлік қызмет пен оқыту тәжірибесі жұмысты үйлестіруге және күрделі нәрсені түсінікті жеткізуге көмектеседі. Мәселені бөліктерге ажыратып, шешімдерді құжаттаймын және нәтижені тексеремін.
+Tomorrow School / 01-Edu бағдарламасында оқимын. Codex көмегімен оқу жобаларын әзірлеймін: discuss-hub, symbol-web, net-link, brain-check. Go тіліндегі веб-қосымшалармен және желілік құралдармен жұмыс істеймін: HTTP сұрауларын өңдеу, SQL деректер ағындары және қатар орындалатын TCP қосылымдары. Техникалық мәселелерді инженерлік тәсілмен талдаймын; офицерлік қызмет пен оқыту тәжірибесі жұмысты үйлестіруге және күрделі нәрсені түсінікті жеткізуге көмектеседі. Мәселені бөліктерге ажыратып, шешімдерді құжаттаймын және нәтижені тексеремін.
 
 2017–2020 жылдары Астана қаласы ТЖД Азаматтық қорғаныс басқармасында офицер ретінде әскери қызмет өткердім, әскери атағым — аға лейтенант.
 
@@ -125,9 +128,9 @@ Go тіліндегі веб-қосымшалармен және желілік 
 <details>
 <summary><b>По-русски</b></summary>
 
-Я Ернат Солтанбеков. **Инженер технической поддержки**.
+Я Ернат Солтанбеков. Целевая роль — **Системный администратор**.
 
-Работаю с веб-приложениями и сетевыми инструментами на Go: обработкой HTTP-запросов, потоками данных в SQL и конкурентными TCP-соединениями. Использую инженерный подход к диагностике, а опыт офицерской службы и преподавания — для координации работы и понятного объяснения сложных вещей. Разбираю технические задачи, документирую решения и проверяю результат.
+Учусь в Tomorrow School / 01-Edu. Учебные проекты discuss-hub, symbol-web, net-link и brain-check разрабатываю с участием Codex. Работаю с веб-приложениями и сетевыми инструментами на Go: обработкой HTTP-запросов, потоками данных в SQL и конкурентными TCP-соединениями. Использую инженерный подход к диагностике, а опыт офицерской службы и преподавания — для координации работы и понятного объяснения сложных вещей. Разбираю технические задачи, документирую решения и проверяю результат.
 
 В 2017–2020 годах проходил военную службу в должности офицера Управления гражданской обороны ДЧС Астаны, воинское звание — старший лейтенант.
 
