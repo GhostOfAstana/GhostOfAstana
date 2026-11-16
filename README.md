@@ -27,7 +27,7 @@
 
 **Backend Developer**
 
-Full-stack development and AI training at Tomorrow School / 01-Edu: Go, JavaScript and Python. Engineering education and experience in interagency coordination, formal documentation and specialist training. Technical focus: server-side logic, HTTP APIs and data. Interested in an entry-level technical role or internship within the Astana Hub Fund team.
+I develop backend skills through practical projects with Go, HTTP APIs and SQL, alongside full-stack development and AI training at Tomorrow School / 01-Edu. My experience also includes independent game scripting, community administration, digital content production and military service. I bring structured documentation, interagency coordination and specialist training to technical work. I am interested in an in-house role or internship within the Astana Hub Fund team, contributing to its digital services and community.
 
 ## Selected projects
 
@@ -68,6 +68,20 @@ Full-stack development and AI training at Tomorrow School / 01-Edu: Go, JavaScri
 
 These are learning projects developed with Codex assistance. Each repository includes source code, setup instructions and technical details.
 
+### [Ernat's Mod Pack 2023 · Storm Engine scripting](https://sundukpirata.com/forum/4-1252-1)
+
+**Independent game modification, released in March 2023.** Developed and published a mod for Sea Dogs: To Each His Own using Storm Engine's C-like scripting language.
+
+- Modified gameplay logic, balance, ship and crew management, dialogue and quest records.
+- Adapted additional mods and integrated audiovisual changes into a playable release.
+- Published fixes for a blocked character dialogue and missing quest-journal entries; tested the build through gameplay and player feedback.
+
+The project gave me hands-on experience reading an existing codebase, tracing behaviour, changing logic and checking the result. [Release and discussion →](https://sundukpirata.com/forum/4-1252-1)
+
+### [HackAlem AI · QA contribution](https://github.com/BAITC-Hacks/hack-f6cfd1cd-go-team/tree/ai-qa/qa)
+
+**Team hackathon, Astana, October 2026.** Contributed acceptance scenarios, a test harness and documented results. The team's QA materials are available in the repository's **ai-qa/qa** directory.
+
 ## Technical practice
 
 **Core technical practice**
@@ -92,13 +106,21 @@ Go · HTTP · SQL · SQLite · Git · Postman. Docker and Kubernetes fundamental
   <img src="assets/badge-react.svg" alt="React" height="30">
 </p>
 
-HTML/CSS, JavaScript, Django REST Framework, React/Vite, SQLite and HTTP integrations with language models.
+HTML/CSS, JavaScript, Django REST Framework, React/Vite, SQLite and HTTP integrations with language models. Independent experience with **Storm Engine's C-like scripting**, gameplay logic modification and debugging.
+
+## Community management and digital content
+
+Administrator and content creator for **Assassin's Creed Universe / «Вселенная Assassin's Creed»**: [VK since 2014](https://vk.ru/vs_ac) and [Telegram since 2018](https://t.me/vs_ac). My work includes community moderation, news and editorial posts, audience communication and visual content.
+
+I shoot and edit horizontal and vertical video, prepare thumbnails and graphics, and work with **Adobe Photoshop, Premiere Pro and After Effects**. Earlier YouTube experience includes running a monetized channel with approximately **3,000 subscribers**.
+
+Current creative accounts: [YouTube](https://www.youtube.com/@ghostofastanachannel) · [Instagram](https://www.instagram.com/ghostofastana) · [TikTok](https://www.tiktok.com/@ghostofastana).
 
 ## Background
 
 | Experience | What I bring to IT |
 |---|---|
-| **Military officer · 2017–2020**<br>Department for Emergency Situations, Astana | Interagency coordination, official and mobilisation documentation, command-and-staff exercises, state oversight, specialist training and media appearances in Kazakh. |
+| **Military officer · June 2017–June 2020**<br>Civil Defence Administration, Astana Department for Emergency Situations; Committee for Emergency Situations under Kazakhstan's Ministry of Internal Affairs | Interagency coordination, official and mobilisation documentation, command-and-staff exercises, state oversight, specialist and public training, and national television appearances in Kazakh. |
 | **Transport logistics · 2020–2025** | Independent passenger transport and delivery services: route planning, order fulfilment and customer service. |
 | **Engineering education**<br>Geodesy and Cartography, Karaganda State Technical University, 2016 | Attention to inputs, assumptions and accuracy. I apply that habit when breaking down a problem and checking a result. |
 | **Teaching and public communication**<br>Training in Kazakh, civil protection communication and ITF instruction | Explaining unfamiliar material, giving feedback and adapting an explanation to the audience. Relevant to team communication, user guidance and documentation. |
@@ -111,7 +133,13 @@ Contributed to a computer fleet upgrade: preparing workstations, setting up equi
 
 - **Tomorrow School / 01-Edu** — full-stack development and AI specialist training programme: Go, JavaScript and Python, 2026–present; Piscine completed.
 - **Udacity** — Programming Fundamentals and Data Analysis Fundamentals, completed in 2026.
-- **HackAlem AI** — participant, Astana, October 2026.
+- **HackAlem AI** — QA contribution: acceptance scenarios, test harness and documented results; Astana, October 2026.
+
+**Recognition**
+
+- Ministry of Internal Affairs recognition in 2018 for conscientious service and public safety during Astana's 20th-anniversary events.
+- Letter of appreciation from the Akim of Esil District for civil-protection work.
+- Recognition in the departmental **Polyglot** competition, 2019.
 
 DevOps is a direction for further growth.
 
@@ -128,11 +156,19 @@ I have practised **ITF Taekwon-Do since 2008**, hold **I Dan** and have experien
 
 Tomorrow School / 01-Edu бағдарламасында Go, JavaScript және Python тілдеріндегі full-stack әзірлеу және AI бағыты бойынша білім алудамын. Инженерлік білімім, ведомствоаралық үйлестіру, белгіленген талаптарға сай құжаттама дайындау және мамандарды оқыту тәжірибем бар. Техникалық бағытым — серверлік логика, HTTP API және деректермен жұмыс. Astana Hub қорының штатындағы бастапқы техникалық қызметті немесе тағылымдаманы қарастырамын.
 
-**Әскери қызметші, офицер · 2017–2020** — Астана қаласының ТЖД.
+**Әскери қызметші, офицер · 2017 жылғы маусым–2020 жылғы маусым** — ҚР ІІМ ТЖ комитеті жүйесіндегі Астана қаласы ТЖД Азаматтық қорғаныс басқармасы. Ведомствоаралық үйлестіру, ресми және жұмылдыру құжаттамасы, командалық-штабтық оқу-жаттығулар, мемлекеттік қадағалау, мамандар мен халықты оқыту және республикалық телеарналарда қазақ тілінде түсіндіру жұмыстары.
 
 **Көлік логистикасы · 2020–2025** — жолаушылар тасымалы мен жеткізу саласындағы дербес қызмет.
 
 **Tomorrow School бағдарламасына техникалық жәрдем** — компьютерлік паркті жаңартуға қатысу: жұмыс орындарын дайындау, жабдықтарды орнату және кабельдік қосылымдарды ретке келтіру.
+
+**[Storm Engine скриптингі · 2023](https://sundukpirata.com/forum/4-1252-1).** Sea Dogs: To Each His Own ойынына арналған Ernat's Mod Pack 2023 модификациясын әзірлеп, жарияладым. C-тәрізді скрипт тілінде ойын логикасын, теңгерімін, кемелер мен экипаждарды басқаруды, диалогтар мен квест жазбаларын өзгерттім. Қосымша модификацияларды бейімдеп, қателерді түзеттім және жинақты ойын барысында тексердім.
+
+**[HackAlem AI · 2026 жылғы қазан](https://github.com/BAITC-Hacks/hack-f6cfd1cd-go-team/tree/ai-qa/qa).** Командалық жобада қабылдау сценарийлерін, тестілеу құралын (test harness) және нәтижелер құжаттамасын дайындауға үлес қостым.
+
+**Қауымдастықтарды басқару және контент.** «Вселенная Assassin's Creed» қауымдастығында [VK-де 2014 жылдан](https://vk.ru/vs_ac), [Telegram-да 2018 жылдан](https://t.me/vs_ac) әкімшілік жүргізу, модерация, жаңалықтар мен авторлық жарияланымдар, аудиториямен байланыс және визуалды контентпен жұмыс істеймін. Көлденең және тік форматтағы видеоларды түсіріп, монтаждаймын; мұқабалар мен графика дайындаймын. Құралдарым: **Adobe Photoshop, Premiere Pro, After Effects**. Бұрынғы YouTube жобамда шамамен **3 000 жазылушы** және монетизация болған. Қазіргі аккаунттар: [YouTube](https://www.youtube.com/@ghostofastanachannel), [Instagram](https://www.instagram.com/ghostofastana), [TikTok](https://www.tiktok.com/@ghostofastana).
+
+**Марапаттар.** 2018 жылы Астананың 20 жылдығы іс-шараларында адал қызмет атқарып, қоғамдық қауіпсіздікті қамтамасыз етуге қосқан үлесім үшін ҚР ІІМ тарапынан марапатталдым. Азаматтық қорғау жұмыстары үшін Есіл ауданы әкімінің алғыс хатын алдым. 2019 жылы ведомстволық «Полиглот» байқауында марапатталдым.
 
 Taekwon-Do ITF тәжірибесі — 2008 жылдан; I дан; балалар мен ересектерді оқыту.
 
@@ -145,11 +181,19 @@ Taekwon-Do ITF тәжірибесі — 2008 жылдан; I дан; балал�
 
 Подготовка по full-stack-разработке и AI в Tomorrow School / 01-Edu: Go, JavaScript, Python. Инженерное образование, опыт межведомственной координации, подготовки регламентированной документации и обучения специалистов. Технический фокус — серверная логика, HTTP API и работа с данными. Рассматриваю начальную техническую позицию или стажировку в штате АКФ Astana Hub.
 
-**Военнослужащий, офицер · 2017–2020** — ДЧС г. Астаны.
+**Военнослужащий, офицер · июнь 2017–июнь 2020** — Управление гражданской обороны ДЧС г. Астаны в системе КЧС МВД РК. Межведомственная координация, официальная и мобилизационная документация, командно-штабные учения, государственный надзор, обучение специалистов и населения, выступления на республиканском телевидении на казахском языке.
 
 **Транспортная логистика · 2020–2025** — самостоятельная деятельность в пассажирских перевозках и доставке: планирование маршрутов, выполнение заказов и клиентский сервис.
 
 **Техническое содействие Tomorrow School** — участие в обновлении компьютерного парка: подготовка рабочих мест, установка оборудования и организация кабельных соединений.
+
+**[Скриптинг Storm Engine · 2023](https://sundukpirata.com/forum/4-1252-1).** Разработал и опубликовал Ernat's Mod Pack 2023 для Sea Dogs: To Each His Own. Самостоятельно изменял игровую логику на C-подобном скриптовом языке: баланс, управление кораблями и экипажами, диалоги и квестовые записи. Адаптировал дополнительные модификации, выпускал исправления и проверял сборку в процессе прохождения.
+
+**[HackAlem AI · октябрь 2026](https://github.com/BAITC-Hacks/hack-f6cfd1cd-go-team/tree/ai-qa/qa).** В командном проекте участвовал в подготовке приёмочных сценариев, тестового инструментария (test harness) и документировании результатов.
+
+**Управление сообществами и контент.** Администратор и автор контента «Вселенная Assassin's Creed»: [VK с 2014 года](https://vk.ru/vs_ac), [Telegram с 2018 года](https://t.me/vs_ac). Модерация, новости и авторские публикации, общение с аудиторией, визуальный контент. Снимаю и монтирую горизонтальные и вертикальные видео, готовлю обложки и графику. Работаю в **Adobe Photoshop, Premiere Pro и After Effects**. В прежнем YouTube-проекте было около **3 000 подписчиков** и подключена монетизация. Текущие аккаунты: [YouTube](https://www.youtube.com/@ghostofastanachannel), [Instagram](https://www.instagram.com/ghostofastana), [TikTok](https://www.tiktok.com/@ghostofastana).
+
+**Награды и признание.** Награждён МВД РК в 2018 году за добросовестную службу и вклад в обеспечение общественной безопасности во время мероприятий к 20-летию Астаны. Получил благодарность акима Есильского района за работу в сфере гражданской защиты. Отмечен в ведомственном конкурсе «Полиглот» в 2019 году.
 
 Taekwon-Do ITF практикую с 2008 года; I дан. Опыт проведения занятий для детей и взрослых.
 
