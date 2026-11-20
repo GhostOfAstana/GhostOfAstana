@@ -27,7 +27,7 @@
 
 **Backend Developer**
 
-I develop backend skills through practical projects with Go, HTTP APIs and SQL, alongside full-stack development and AI training at Tomorrow School / 01-Edu. My experience also includes independent game scripting, community administration, digital content production and military service. I bring structured documentation, interagency coordination and specialist training to technical work. I am interested in an in-house role or internship within the Astana Hub Fund team, contributing to its digital services and community.
+I build Go web applications with HTTP APIs and SQLite and analyse service failures through documented project practice. My portfolio covers backend logic, API testing, SQL queries and Docker Compose, alongside C-like Storm Engine scripting and a published mod release. I bring experience as a military officer in state oversight, interagency coordination and specialist training. My career target is a paid staff role within the Astana Hub Fund.
 
 ## Selected projects
 
@@ -66,7 +66,7 @@ I develop backend skills through practical projects with Go, HTTP APIs and SQL, 
   </tr>
 </table>
 
-These are learning projects developed with Codex assistance. Each repository includes source code, setup instructions and technical details.
+These are learning projects developed with AI assistance. Each repository includes source code, setup instructions and technical details.
 
 ### [Ernat's Mod Pack 2023 · Storm Engine scripting](https://sundukpirata.com/forum/4-1252-1)
 
@@ -96,7 +96,7 @@ The project gave me hands-on experience reading an existing codebase, tracing be
 Go · HTTP · SQL · SQLite · Git · Postman. Docker and Kubernetes fundamentals. Experience working in macOS and Ubuntu environments.
 
 - [coddy](https://github.com/GhostOfAstana/coddy) — Go practice: data structures, maps, pointers, string processing and algorithm exercises.
-- [ernat-it-journey](https://github.com/GhostOfAstana/ernat-it-journey) — SQL queries, HTTP/API and infrastructure case studies.
+- [ernat-it-journey](https://github.com/GhostOfAstana/ernat-it-journey) — March–June 2026 practice in API diagnostics, incident reports and escalation criteria; GET/POST in Postman, SQL joins and aggregation, Docker Compose and Kubernetes failure analysis.
 
 **Also used in my project portfolio**
 
@@ -141,20 +141,19 @@ Contributed to a computer fleet upgrade: preparing workstations, setting up equi
 - Letter of appreciation from the Akim of Esil District for civil-protection work.
 - Recognition in the departmental **Polyglot** competition, 2019.
 
-DevOps is a direction for further growth.
 
 ## Beyond code
 
 I have practised **ITF Taekwon-Do since 2008**, hold **I Dan** and have experience teaching children and adults. Consistent practice, feedback and responsibility for others are part of how I approach learning and teamwork.
 
-**Languages:** Kazakh — native; Russian — C2; English — B2.
+**Languages:** Kazakh and Russian — fluent; English — B2. **Duolingo Score: 115/160.**
 
 <details>
 <summary><b>Қазақша</b></summary>
 
 Мен Ернат Солтанбековпын. Мақсатты қызметім — **Backend әзірлеуші**.
 
-Tomorrow School / 01-Edu бағдарламасында Go, JavaScript және Python тілдеріндегі full-stack әзірлеу және AI бағыты бойынша білім алудамын. Инженерлік білімім, ведомствоаралық үйлестіру, белгіленген талаптарға сай құжаттама дайындау және мамандарды оқыту тәжірибем бар. Техникалық бағытым — серверлік логика, HTTP API және деректермен жұмыс. Astana Hub қорының штатындағы бастапқы техникалық қызметті немесе тағылымдаманы қарастырамын.
+Tomorrow School / 01-Edu бағдарламасында Go, JavaScript және Python тілдеріндегі full-stack әзірлеу және AI бағыты бойынша білім алудамын. Инженерлік білімім, ведомствоаралық үйлестіру, белгіленген талаптарға сай құжаттама дайындау және мамандарды оқыту тәжірибем бар. Техникалық бағытым — серверлік логика, HTTP API және деректермен жұмыс. Мақсатым — Astana Hub қорының штатындағы ақы төленетін техникалық қызмет.
 
 **Әскери қызметші, офицер · 2017 жылғы маусым–2020 жылғы маусым** — ҚР ІІМ ТЖ комитеті жүйесіндегі Астана қаласы ТЖД Азаматтық қорғаныс басқармасы. Ведомствоаралық үйлестіру, ресми және жұмылдыру құжаттамасы, командалық-штабтық оқу-жаттығулар, мемлекеттік қадағалау, мамандар мен халықты оқыту және республикалық телеарналарда қазақ тілінде түсіндіру жұмыстары.
 
@@ -172,6 +171,10 @@ Tomorrow School / 01-Edu бағдарламасында Go, JavaScript және 
 
 Taekwon-Do ITF тәжірибесі — 2008 жылдан; I дан; балалар мен ересектерді оқыту.
 
+**API және деректермен жұмыс.** [ernat-it-journey](https://github.com/GhostOfAstana/ernat-it-journey), 03–06.2026: оқу инциденттерін талдау, белгілер, болжамдар, диагностикалық тексерулер және эскалация шарттары; Postman, SQL, Docker Compose және Kubernetes негіздері.
+
+**Тілдер:** қазақ және орыс тілдері — еркін; ағылшын тілі — B2. **Duolingo Score: 115/160.**
+
 </details>
 
 <details>
@@ -179,7 +182,7 @@ Taekwon-Do ITF тәжірибесі — 2008 жылдан; I дан; балал�
 
 Я Ернат Солтанбеков. Целевая роль — **Backend Developer**.
 
-Подготовка по full-stack-разработке и AI в Tomorrow School / 01-Edu: Go, JavaScript, Python. Инженерное образование, опыт межведомственной координации, подготовки регламентированной документации и обучения специалистов. Технический фокус — серверная логика, HTTP API и работа с данными. Рассматриваю начальную техническую позицию или стажировку в штате АКФ Astana Hub.
+Подготовка по full-stack-разработке и AI в Tomorrow School / 01-Edu: Go, JavaScript, Python. Инженерное образование, опыт межведомственной координации, подготовки регламентированной документации и обучения специалистов. Технический фокус — серверная логика, HTTP API и работа с данными. Цель — оплачиваемая штатная техническая должность непосредственно в АКФ Astana Hub.
 
 **Военнослужащий, офицер · июнь 2017–июнь 2020** — Управление гражданской обороны ДЧС г. Астаны в системе КЧС МВД РК. Межведомственная координация, официальная и мобилизационная документация, командно-штабные учения, государственный надзор, обучение специалистов и населения, выступления на республиканском телевидении на казахском языке.
 
@@ -196,5 +199,9 @@ Taekwon-Do ITF тәжірибесі — 2008 жылдан; I дан; балал�
 **Награды и признание.** Награждён МВД РК в 2018 году за добросовестную службу и вклад в обеспечение общественной безопасности во время мероприятий к 20-летию Астаны. Получил благодарность акима Есильского района за работу в сфере гражданской защиты. Отмечен в ведомственном конкурсе «Полиглот» в 2019 году.
 
 Taekwon-Do ITF практикую с 2008 года; I дан. Опыт проведения занятий для детей и взрослых.
+
+**Практика API и данных.** [ernat-it-journey](https://github.com/GhostOfAstana/ernat-it-journey), 03–06.2026: учебные разборы инцидентов, симптомы, гипотезы, диагностические проверки и условия эскалации; Postman, SQL, Docker Compose и основы Kubernetes.
+
+**Языки:** казахский и русский — свободно; английский — B2. **Duolingo Score: 115/160.**
 
 </details>
