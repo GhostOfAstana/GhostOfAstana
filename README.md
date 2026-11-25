@@ -5,7 +5,7 @@
 <h3>GitHub activity</h3>
 
 <a href="https://github.com/GhostOfAstana#js-contribution-activity-description">
-  <img src="https://ghchart.rshah.org/GhostOfAstana" alt="GitHub contribution calendar for GhostOfAstana" width="100%">
+  <img src="https://ghchart.rshah.org/GhostOfAstana" alt="GitHub contribution calendar for Yernat Soltanbekov" width="100%">
 </a>
 <p align="right"><sub><a href="https://github.com/GhostOfAstana#js-contribution-activity-description">Explore contribution history →</a></sub></p>
 
@@ -25,9 +25,15 @@
 
 ## About me
 
-**Backend Developer**
+**Software Development & API Support · QA · Project Coordination · Community & Content**
 
-I build Go web applications with HTTP APIs and SQLite and analyse service failures through documented project practice. My portfolio covers backend logic, API testing, SQL queries and Docker Compose, alongside C-like Storm Engine scripting and a published mod release. I bring experience as a military officer in state oversight, interagency coordination and specialist training. My career target is a paid staff role within the Astana Hub Fund.
+I am **Yernat Soltanbekov**, based in Astana. I build and check software, document requirements and incidents, coordinate work with organisations, and create content for communities. My engineering education and three years as a military officer complement hands-on technical projects and experience teaching people.
+
+- **Software and support:** Go, HTTP APIs, SQL/SQLite and Postman; published C-like Storm Engine scripting work. [ernat-it-journey](https://github.com/GhostOfAstana/ernat-it-journey) documents March–June 2026 learning cases: symptoms, hypotheses, diagnostic checks and escalation criteria.
+- **QA and acceptance:** contributed an acceptance matrix, a reproducible QA harness and documented checks in the [HackAlem AI team project](https://github.com/BAITC-Hacks/hack-f6cfd1cd-go-team/tree/ai-qa/qa). The team report records 121 checks and four open defects.
+- **Coordination and communication:** government oversight, preparation of exercises involving public and private organisations, documentation and specialist training; community administration, video production and instruction.
+
+**Career objective:** a paid staff position directly with the Astana Hub Fund, Astana, pavilion 4.6, where these capabilities meet the team's responsibilities.
 
 ## Selected projects
 
@@ -80,7 +86,7 @@ The project gave me hands-on experience reading an existing codebase, tracing be
 
 ### [HackAlem AI · QA contribution](https://github.com/BAITC-Hacks/hack-f6cfd1cd-go-team/tree/ai-qa/qa)
 
-**Team hackathon, Astana, October 2026.** Contributed acceptance scenarios, a test harness and documented results. The team's QA materials are available in the repository's **ai-qa/qa** directory.
+**Team QA project, Astana, 2026.** Contributed to the acceptance matrix, reproducible QA harness and documented checks. The team report records **121 checks and four open defects**, including conflicting product data and retention of a synthetic payment number contrary to a requirement. Requirements, expected and actual results, and reproduction steps are available in **ai-qa/qa**.
 
 ## Technical practice
 
@@ -110,98 +116,100 @@ HTML/CSS, JavaScript, Django REST Framework, React/Vite, SQLite and HTTP integra
 
 ## Community management and digital content
 
-Administrator and content creator for **Assassin's Creed Universe / «Вселенная Assassin's Creed»**: [VK since 2014](https://vk.ru/vs_ac) and [Telegram since 2018](https://t.me/vs_ac). My work includes community moderation, news and editorial posts, audience communication and visual content.
+Administrator and content creator for **Assassin's Creed Universe / «Вселенная Assassin's Creed»**: [VK since 2014](https://vk.ru/vs_ac) and [Telegram since 2018](https://t.me/vs_ac). The Telegram community has **6,000+ subscribers**. My work includes publishing, moderation, member questions and feedback.
 
-I shoot and edit horizontal and vertical video, prepare thumbnails and graphics, and work with **Adobe Photoshop, Premiere Pro and After Effects**. Earlier YouTube experience includes running a monetized channel with approximately **3,000 subscribers**.
+**Continuing independent activity in 2025–2026:** YouTube, TikTok and Instagram content, alongside VK and Telegram administration. I shoot and edit horizontal and vertical video and prepare thumbnails and graphics in **Adobe Photoshop, Premiere Pro and After Effects**.
 
-Current creative accounts: [YouTube](https://www.youtube.com/@ghostofastanachannel) · [Instagram](https://www.instagram.com/ghostofastana) · [TikTok](https://www.tiktok.com/@ghostofastana).
+Selected work: [Ghost of Tsushima: more than a game](https://www.youtube.com/watch?v=DPNHb-tVrgY), December 2025; [Martial arts: my choice](https://www.youtube.com/watch?v=bxKcsx4_DVo), February 2026.
+
+Creative accounts: [YouTube](https://www.youtube.com/@ghostofastanachannel) · [Instagram](https://www.instagram.com/ghostofastana) · [TikTok](https://www.tiktok.com/@ghostofastana).
 
 ## Background
 
-| Experience | What I bring to IT |
+| Experience | Relevant contribution |
 |---|---|
-| **Military officer · June 2017–June 2020**<br>Civil Defence Administration, Astana Department for Emergency Situations; Committee for Emergency Situations under Kazakhstan's Ministry of Internal Affairs | Interagency coordination, official and mobilisation documentation, command-and-staff exercises, state oversight, specialist and public training, and national television appearances in Kazakh. |
-| **Transport logistics · 2020–2025** | Independent passenger transport and delivery services: route planning, order fulfilment and customer service. |
+| **Military Officer · June 2017–June 2020**<br>Civil Defence Administration, Astana Department for Emergency Situations; Committee for Emergency Situations under Kazakhstan's Ministry of Internal Affairs | Interagency coordination, official and mobilisation documentation, command-and-staff exercises, state oversight, specialist and public training, and national television appearances in Kazakh. |
+| **Independent transport and delivery · June 2020–June 2025** | Independent passenger transport and delivery services: route planning, order fulfilment and customer service. |
 | **Engineering education**<br>Geodesy and Cartography, Karaganda State Technical University, 2016 | Attention to inputs, assumptions and accuracy. I apply that habit when breaking down a problem and checking a result. |
 | **Teaching and public communication**<br>Training in Kazakh, civil protection communication and ITF instruction | Explaining unfamiliar material, giving feedback and adapting an explanation to the audience. Relevant to team communication, user guidance and documentation. |
 
 **Technical assistance to Tomorrow School**
 
-Contributed to a computer fleet upgrade: preparing workstations, setting up equipment and organising cable connections.
+Helped with cable connections in **July 2026** and an **iMac upgrade in October 2026**. These were practical assistance activities alongside my studies.
 
 ## Learning and milestones
 
-- **Tomorrow School / 01-Edu** — full-stack development and AI specialist training programme: Go, JavaScript and Python, 2026–present; Piscine completed.
+- **Tomorrow School / 01-Edu** — since **May 2026**; Piscine in May–June, main AI-Curriculum since July. Go, JavaScript and Python project practice.
 - **Udacity** — Programming Fundamentals and Data Analysis Fundamentals, completed in 2026.
-- **HackAlem AI** — QA contribution: acceptance scenarios, test harness and documented results; Astana, October 2026.
+- **HackAlem AI** — team QA project, 2026: acceptance matrix, reproducible harness and documented results.
 
 **Recognition**
 
 - Ministry of Internal Affairs recognition in 2018 for conscientious service and public safety during Astana's 20th-anniversary events.
 - Letter of appreciation from the Akim of Esil District for civil-protection work.
-- Recognition in the departmental **Polyglot** competition, 2019.
+- Certificate for participation in the departmental **Polyglot** competition, 2019.
 
 
 ## Beyond code
 
-I have practised **ITF Taekwon-Do since 2008**, hold **I Dan** and have experience teaching children and adults. Consistent practice, feedback and responsibility for others are part of how I approach learning and teamwork.
+I have practised **ITF Taekwon-Do since 2008** and hold **I Dan**. Teaching periods: **2011; 2022–2023; April–October 2026**. In 2026 I taught children. Personal practice continues independently of these teaching periods.
 
 **Languages:** Kazakh and Russian — fluent; English — B2. **Duolingo Score: 115/160.**
 
 <details>
 <summary><b>Қазақша</b></summary>
 
-Мен Ернат Солтанбековпын. Мақсатты қызметім — **Backend әзірлеуші**.
+Мен **Ернат Солтанбековпын**, Астанада тұрамын. Кәсіби бағыттарым — **бағдарламалық жасақтама және API қолдауы, QA, жобаларды үйлестіру, қауымдастықтар мен контент**. Инженерлік білімімді, үш жылдық офицерлік қызметімді, техникалық жобалар мен адамдарды оқыту тәжірибемді ұштастырамын.
 
-Tomorrow School / 01-Edu бағдарламасында Go, JavaScript және Python тілдеріндегі full-stack әзірлеу және AI бағыты бойынша білім алудамын. Инженерлік білімім, ведомствоаралық үйлестіру, белгіленген талаптарға сай құжаттама дайындау және мамандарды оқыту тәжірибем бар. Техникалық бағытым — серверлік логика, HTTP API және деректермен жұмыс. Мақсатым — Astana Hub қорының штатындағы ақы төленетін техникалық қызмет.
+**Мақсатым:** Астана, 4.6 павильонындағы Astana Hub қорының өз штатында, біліктілігім бөлім міндеттеріне сәйкес келетін ақы төленетін қызмет.
 
-**Әскери қызметші, офицер · 2017 жылғы маусым–2020 жылғы маусым** — ҚР ІІМ ТЖ комитеті жүйесіндегі Астана қаласы ТЖД Азаматтық қорғаныс басқармасы. Ведомствоаралық үйлестіру, ресми және жұмылдыру құжаттамасы, командалық-штабтық оқу-жаттығулар, мемлекеттік қадағалау, мамандар мен халықты оқыту және республикалық телеарналарда қазақ тілінде түсіндіру жұмыстары.
+**Техникалық жұмыс.** Go, HTTP API, SQL/SQLite, Git және Postman. [ernat-it-journey](https://github.com/GhostOfAstana/ernat-it-journey), **03–06.2026**: оқу инциденттерінің белгілері, болжамдар, диагностикалық тексерулер, эскалация шарттары; SQL біріктірулері мен топтау, Docker Compose және Kubernetes негіздері. Жоғарыдағы төрт веб-жоба — AI көмегімен әзірленген оқу жобалары.
 
-**Көлік логистикасы · 2020–2025** — жолаушылар тасымалы мен жеткізу саласындағы дербес қызмет.
+**[HackAlem AI · 2026](https://github.com/BAITC-Hacks/hack-f6cfd1cd-go-team/tree/ai-qa/qa).** Командалық жобада қабылдау матрицасына, қайталанатын QA стендіне және тексерулерді құжаттауға үлес қостым. Командалық есепте **121 тексеру және ашық күйдегі төрт ақау** бар. Мысалдар: тауар деректеріндегі қайшылық және талапқа қайшы сақталған синтетикалық төлем нөмірі.
 
-**Tomorrow School бағдарламасына техникалық жәрдем** — компьютерлік паркті жаңартуға қатысу: жұмыс орындарын дайындау, жабдықтарды орнату және кабельдік қосылымдарды ретке келтіру.
+**[Storm Engine скриптингі · 2023](https://sundukpirata.com/forum/4-1252-1).** Sea Dogs: To Each His Own ойынына арналған Ernat's Mod Pack 2023 модификациясын әзірлеп, наурызда жарияладым. C-тәрізді скрипт тілінде ойын логикасын, теңгерімді, кемелер мен экипаждарды басқаруды, диалогтар мен квест жазбаларын өзгерттім. Қосымша модификацияларды бейімдеп, қателерді түзеттім және жинақты ойын барысында тексердім.
 
-**[Storm Engine скриптингі · 2023](https://sundukpirata.com/forum/4-1252-1).** Sea Dogs: To Each His Own ойынына арналған Ernat's Mod Pack 2023 модификациясын әзірлеп, жарияладым. C-тәрізді скрипт тілінде ойын логикасын, теңгерімін, кемелер мен экипаждарды басқаруды, диалогтар мен квест жазбаларын өзгерттім. Қосымша модификацияларды бейімдеп, қателерді түзеттім және жинақты ойын барысында тексердім.
+**Әскери қызметші офицер · 06.2017–06.2020.** ҚР ІІМ ТЖК жүйесіндегі Астана ТЖД: мемлекеттік қадағалау, мемлекеттік және жеке ұйымдардың оқу-жаттығуларға дайындығын үйлестіру, қызметтік және жұмылдыру құжаттары, мамандар мен халықты оқыту, қазақ тілінде көпшілік алдында және телеарнада сөйлеу.
 
-**[HackAlem AI · 2026 жылғы қазан](https://github.com/BAITC-Hacks/hack-f6cfd1cd-go-team/tree/ai-qa/qa).** Командалық жобада қабылдау сценарийлерін, тестілеу құралын (test harness) және нәтижелер құжаттамасын дайындауға үлес қостым.
+**Дербес тасымал және жеткізу · 06.2020–06.2025:** тапсырыстар, бағыттар, мерзімдер және клиенттермен жұмыс.
 
-**Қауымдастықтарды басқару және контент.** «Вселенная Assassin's Creed» қауымдастығында [VK-де 2014 жылдан](https://vk.ru/vs_ac), [Telegram-да 2018 жылдан](https://t.me/vs_ac) әкімшілік жүргізу, модерация, жаңалықтар мен авторлық жарияланымдар, аудиториямен байланыс және визуалды контентпен жұмыс істеймін. Көлденең және тік форматтағы видеоларды түсіріп, монтаждаймын; мұқабалар мен графика дайындаймын. Құралдарым: **Adobe Photoshop, Premiere Pro, After Effects**. Бұрынғы YouTube жобамда шамамен **3 000 жазылушы** және монетизация болған. Қазіргі аккаунттар: [YouTube](https://www.youtube.com/@ghostofastanachannel), [Instagram](https://www.instagram.com/ghostofastana), [TikTok](https://www.tiktok.com/@ghostofastana).
+**Қауымдастықтар мен медиа.** «Вселенная Assassin's Creed»: [VK — 2014 жылдан](https://vk.ru/vs_ac), [Telegram — 2018 жылдан](https://t.me/vs_ac); Telegram-да **6 000-нан астам жазылушы**. Жарияланымдар, модерация, сұрақтар мен кері байланыс. **2025–2026 жылдары жалғасып жатқан дербес қызметім:** [YouTube](https://www.youtube.com/@ghostofastanachannel), [TikTok](https://www.tiktok.com/@ghostofastana), [Instagram](https://www.instagram.com/ghostofastana) және VK / Telegram. Бейне түсіру, монтаж, мұқаба мен графика: Photoshop, Premiere Pro, After Effects. Таңдаулы шығарылымдар — Ghost of Tsushima туралы видеоэссе (12.2025) және «Боевые искусства: мой выбор» (02.2026).
 
-**Марапаттар.** 2018 жылы Астананың 20 жылдығы іс-шараларында адал қызмет атқарып, қоғамдық қауіпсіздікті қамтамасыз етуге қосқан үлесім үшін ҚР ІІМ тарапынан марапатталдым. Азаматтық қорғау жұмыстары үшін Есіл ауданы әкімінің алғыс хатын алдым. 2019 жылы ведомстволық «Полиглот» байқауында марапатталдым.
+**Білім және техникалық көмек.** ҚарМТУ, геодезия және картография бакалавры, 2016. Tomorrow School / 01-Edu — **05.2026 бастап**; Piscine — мамыр–маусым, негізгі AI-Curriculum — шілдеден. Udacity: Programming Fundamentals және Data Analysis Fundamentals, 2026. Tomorrow School-да **07.2026** кабельдік қосылымдарға, **10.2026** iMac жаңартуға көмектестім.
 
-Taekwon-Do ITF тәжірибесі — 2008 жылдан; I дан; балалар мен ересектерді оқыту.
+**Марапаттар.** 2018 жылы Астананың 20 жылдығы іс-шараларындағы адал қызмет пен қауіпсіздік үшін ҚР ІІМ грамотасы; азаматтық қорғау жұмыстары үшін Есіл ауданы әкімінің алғыс хаты; 2019 жылғы ведомстволық «Полиглот» байқауына қатысқаны үшін грамота.
 
-**API және деректермен жұмыс.** [ernat-it-journey](https://github.com/GhostOfAstana/ernat-it-journey), 03–06.2026: оқу инциденттерін талдау, белгілер, болжамдар, диагностикалық тексерулер және эскалация шарттары; Postman, SQL, Docker Compose және Kubernetes негіздері.
+**Taekwon-Do ITF:** жеке практика — 2008 жылдан, I дан. Оқытушылық кезеңдер: **2011; 2022–2023; 04–10.2026**. 2026 жылы балаларды оқыттым. Жеке практика мен оқытушылық кезеңдер бөлек көрсетілген.
 
-**Тілдер:** қазақ және орыс тілдері — еркін; ағылшын тілі — B2. **Duolingo Score: 115/160.**
+**Тілдер:** қазақ және орыс тілдері — еркін; ағылшын тілі — **B2 · Duolingo Score 115/160**.
 
 </details>
 
 <details>
 <summary><b>По-русски</b></summary>
 
-Я Ернат Солтанбеков. Целевая роль — **Backend Developer**.
+Я **Ернат Солтанбеков**, Астана. Мои профессиональные направления — **разработка и поддержка API, QA, координация проектов, сообщества и контент**. Соединяю инженерное образование, три года офицерской службы, технические проекты и опыт обучения людей.
 
-Подготовка по full-stack-разработке и AI в Tomorrow School / 01-Edu: Go, JavaScript, Python. Инженерное образование, опыт межведомственной координации, подготовки регламентированной документации и обучения специалистов. Технический фокус — серверная логика, HTTP API и работа с данными. Цель — оплачиваемая штатная техническая должность непосредственно в АКФ Astana Hub.
+**Карьерная цель:** оплачиваемая штатная работа непосредственно в АКФ Astana Hub, Астана, павильон 4.6, на позиции, где моя квалификация соответствует задачам подразделения.
 
-**Военнослужащий, офицер · июнь 2017–июнь 2020** — Управление гражданской обороны ДЧС г. Астаны в системе КЧС МВД РК. Межведомственная координация, официальная и мобилизационная документация, командно-штабные учения, государственный надзор, обучение специалистов и населения, выступления на республиканском телевидении на казахском языке.
+**Техническая практика.** Go, HTTP API, SQL/SQLite, Git и Postman. [ernat-it-journey](https://github.com/GhostOfAstana/ernat-it-journey), **03–06.2026**: симптомы и гипотезы учебных инцидентов, диагностические проверки, условия эскалации; SQL JOIN и группировки, Docker Compose и основы Kubernetes. Четыре веб-проекта выше — учебные работы, разработанные с AI assistance.
 
-**Транспортная логистика · 2020–2025** — самостоятельная деятельность в пассажирских перевозках и доставке: планирование маршрутов, выполнение заказов и клиентский сервис.
+**[HackAlem AI · 2026](https://github.com/BAITC-Hacks/hack-f6cfd1cd-go-team/tree/ai-qa/qa).** Участвовал в подготовке матрицы приёмки, воспроизводимого QA-стенда и документировании проверок. В командном отчёте — **121 проверка и четыре открытых дефекта**. Среди примеров — противоречивые данные товара и сохранение синтетического платёжного номера вопреки требованию.
 
-**Техническое содействие Tomorrow School** — участие в обновлении компьютерного парка: подготовка рабочих мест, установка оборудования и организация кабельных соединений.
+**[Скриптинг Storm Engine · 2023](https://sundukpirata.com/forum/4-1252-1).** Разработал и в марте опубликовал Ernat's Mod Pack 2023 для Sea Dogs: To Each His Own. Изменял игровую логику на C-подобном скриптовом языке: баланс, управление кораблями и экипажами, диалоги и квестовые записи. Адаптировал модификации, выпускал исправления и проверял сборку в процессе прохождения.
 
-**[Скриптинг Storm Engine · 2023](https://sundukpirata.com/forum/4-1252-1).** Разработал и опубликовал Ernat's Mod Pack 2023 для Sea Dogs: To Each His Own. Самостоятельно изменял игровую логику на C-подобном скриптовом языке: баланс, управление кораблями и экипажами, диалоги и квестовые записи. Адаптировал дополнительные модификации, выпускал исправления и проверял сборку в процессе прохождения.
+**Военнослужащий-офицер · 06.2017–06.2020.** ДЧС Астаны в структуре КЧС МВД РК: государственный надзор, координация подготовки государственных и частных организаций к учениям, служебные и мобилизационные документы, обучение специалистов и населения, публичные выступления и телевидение на казахском языке.
 
-**[HackAlem AI · октябрь 2026](https://github.com/BAITC-Hacks/hack-f6cfd1cd-go-team/tree/ai-qa/qa).** В командном проекте участвовал в подготовке приёмочных сценариев, тестового инструментария (test harness) и документировании результатов.
+**Самостоятельные перевозки и доставка · 06.2020–06.2025:** заказы, маршруты, сроки и клиентский сервис.
 
-**Управление сообществами и контент.** Администратор и автор контента «Вселенная Assassin's Creed»: [VK с 2014 года](https://vk.ru/vs_ac), [Telegram с 2018 года](https://t.me/vs_ac). Модерация, новости и авторские публикации, общение с аудиторией, визуальный контент. Снимаю и монтирую горизонтальные и вертикальные видео, готовлю обложки и графику. Работаю в **Adobe Photoshop, Premiere Pro и After Effects**. В прежнем YouTube-проекте было около **3 000 подписчиков** и подключена монетизация. Текущие аккаунты: [YouTube](https://www.youtube.com/@ghostofastanachannel), [Instagram](https://www.instagram.com/ghostofastana), [TikTok](https://www.tiktok.com/@ghostofastana).
+**Сообщества и медиа.** «Вселенная Assassin's Creed»: [VK с 2014 года](https://vk.ru/vs_ac), [Telegram с 2018 года](https://t.me/vs_ac); аудитория Telegram — **6 000+**. Публикации, модерация, вопросы и обратная связь. **Продолжающаяся самостоятельная деятельность в 2025–2026:** [YouTube](https://www.youtube.com/@ghostofastanachannel), [TikTok](https://www.tiktok.com/@ghostofastana), [Instagram](https://www.instagram.com/ghostofastana), VK и Telegram. Съёмка и монтаж видео, обложки и графика: Photoshop, Premiere Pro, After Effects. Избранные выпуски — видеоэссе о Ghost of Tsushima (12.2025) и «Боевые искусства: мой выбор» (02.2026).
 
-**Награды и признание.** Награждён МВД РК в 2018 году за добросовестную службу и вклад в обеспечение общественной безопасности во время мероприятий к 20-летию Астаны. Получил благодарность акима Есильского района за работу в сфере гражданской защиты. Отмечен в ведомственном конкурсе «Полиглот» в 2019 году.
+**Образование и техническая помощь.** КарГТУ, бакалавр геодезии и картографии, 2016. Tomorrow School / 01-Edu — **с 05.2026**; Piscine в мае–июне, основной AI-Curriculum с июля. Udacity: Programming Fundamentals и Data Analysis Fundamentals, 2026. В Tomorrow School помогал с кабельными соединениями в **07.2026** и обновлением iMac в **10.2026**.
 
-Taekwon-Do ITF практикую с 2008 года; I дан. Опыт проведения занятий для детей и взрослых.
+**Награды.** Грамота МВД РК 2018 года за добросовестную службу и безопасность мероприятий к 20-летию Астаны; благодарность акима Есильского района за работу в гражданской защите; грамота за участие в ведомственном «Полиглоте», 2019.
 
-**Практика API и данных.** [ernat-it-journey](https://github.com/GhostOfAstana/ernat-it-journey), 03–06.2026: учебные разборы инцидентов, симптомы, гипотезы, диагностические проверки и условия эскалации; Postman, SQL, Docker Compose и основы Kubernetes.
+**Taekwon-Do ITF:** личная практика с 2008 года, I дан. Преподавание отдельными периодами: **2011; 2022–2023; 04–10.2026**. В 2026 году обучал детей. Личная практика продолжается независимо от периодов преподавания.
 
-**Языки:** казахский и русский — свободно; английский — B2. **Duolingo Score: 115/160.**
+**Языки:** казахский и русский — свободно; английский — **B2 · Duolingo Score 115/160**.
 
 </details>
