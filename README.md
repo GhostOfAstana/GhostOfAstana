@@ -139,6 +139,7 @@ Helped with cable connections in **July 2026** and an **iMac upgrade in October 
 
 ## Learning and milestones
 
+- **Coddy — Go Fundamentals** — certificate of completion for the Fundamentals section, issued 27 November 2026. [Verify certificate](https://coddy.tech/certifications/WS3vZe-go-uvjTCx).
 - **Tomorrow School / 01-Edu** — since **May 2026**; Piscine in May–June, main AI-Curriculum since July. Go, JavaScript and Python project practice.
 - **Udacity** — Programming Fundamentals and Data Analysis Fundamentals, completed in 2026.
 - **HackAlem AI** — team QA project, 2026: acceptance matrix, reproducible harness and documented results.
@@ -177,6 +178,8 @@ I have practised **ITF Taekwon-Do since 2008** and hold **I Dan**. Teaching peri
 
 **Білім және техникалық көмек.** ҚарМТУ, геодезия және картография бакалавры, 2016. Tomorrow School / 01-Edu — **05.2026 бастап**; Piscine — мамыр–маусым, негізгі AI-Curriculum — шілдеден. Udacity: Programming Fundamentals және Data Analysis Fundamentals, 2026. Tomorrow School-да **07.2026** кабельдік қосылымдарға, **10.2026** iMac жаңартуға көмектестім.
 
+**Coddy — Go Fundamentals.** Бөлімді аяқтау сертификаты, 2026 жылғы 27 қараша. [Сертификатты тексеру](https://coddy.tech/certifications/WS3vZe-go-uvjTCx).
+
 **Марапаттар.** 2018 жылы Астананың 20 жылдығы іс-шараларындағы адал қызмет пен қауіпсіздік үшін ҚР ІІМ грамотасы; азаматтық қорғау жұмыстары үшін Есіл ауданы әкімінің алғыс хаты; 2019 жылғы ведомстволық «Полиглот» байқауына қатысқаны үшін грамота.
 
 **Taekwon-Do ITF:** жеке практика — 2008 жылдан, I дан. Оқытушылық кезеңдер: **2011; 2022–2023; 04–10.2026**. 2026 жылы балаларды оқыттым. Жеке практика мен оқытушылық кезеңдер бөлек көрсетілген.
@@ -205,6 +208,8 @@ I have practised **ITF Taekwon-Do since 2008** and hold **I Dan**. Teaching peri
 **Сообщества и медиа.** «Вселенная Assassin's Creed»: [VK с 2014 года](https://vk.ru/vs_ac), [Telegram с 2018 года](https://t.me/vs_ac); аудитория Telegram — **6 000+**. Публикации, модерация, вопросы и обратная связь. **Продолжающаяся самостоятельная деятельность в 2025–2026:** [YouTube](https://www.youtube.com/@ghostofastanachannel), [TikTok](https://www.tiktok.com/@ghostofastana), [Instagram](https://www.instagram.com/ghostofastana), VK и Telegram. Съёмка и монтаж видео, обложки и графика: Photoshop, Premiere Pro, After Effects. Избранные выпуски — видеоэссе о Ghost of Tsushima (12.2025) и «Боевые искусства: мой выбор» (02.2026).
 
 **Образование и техническая помощь.** КарГТУ, бакалавр геодезии и картографии, 2016. Tomorrow School / 01-Edu — **с 05.2026**; Piscine в мае–июне, основной AI-Curriculum с июля. Udacity: Programming Fundamentals и Data Analysis Fundamentals, 2026. В Tomorrow School помогал с кабельными соединениями в **07.2026** и обновлением iMac в **10.2026**.
+
+**Coddy — Go Fundamentals.** Сертификат о завершении раздела, 27 ноября 2026 года. [Проверить сертификат](https://coddy.tech/certifications/WS3vZe-go-uvjTCx).
 
 **Награды.** Грамота МВД РК 2018 года за добросовестную службу и безопасность мероприятий к 20-летию Астаны; благодарность акима Есильского района за работу в гражданской защите; грамота за участие в ведомственном «Полиглоте», 2019.
 
